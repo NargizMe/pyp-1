@@ -14,7 +14,6 @@ header{
     margin: 25px 0;
     background-color: black;
 }
-/*sdsdc*/
 .landing-page{
     display: grid;
     grid-template-columns: repeat(3, 350px);
